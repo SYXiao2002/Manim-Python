@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/shenyixiao/Desktop/codes/Manim/first_shoot/media/videos/scene/480p15/partial_movie_files/PointMovingOnShapes/3163782288_2098571047_1751612334.mp4'
+file 'file:/Users/shenyixiao/Desktop/codes/Manim/first_shoot/media/videos/scene/480p15/partial_movie_files/PointMovingOnShapes/2201830969_925921860_653730961.mp4'
+file 'file:/Users/shenyixiao/Desktop/codes/Manim/first_shoot/media/videos/scene/480p15/partial_movie_files/PointMovingOnShapes/2201830969_2956967347_2200619367.mp4'
+file 'file:/Users/shenyixiao/Desktop/codes/Manim/first_shoot/media/videos/scene/480p15/partial_movie_files/PointMovingOnShapes/2201830969_2704617566_653730961.mp4'
+file 'file:/Users/shenyixiao/Desktop/codes/Manim/first_shoot/media/videos/scene/480p15/partial_movie_files/PointMovingOnShapes/2201830969_398514950_418129276.mp4'
