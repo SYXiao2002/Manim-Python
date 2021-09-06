@@ -5,6 +5,7 @@ from manim import *
 #低、 中、 高和   4k 质量指定渲染质量。
 #-preview --> -p
 #/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages
+#git
 class PointMovingOnShapes(Scene):
     def construct(self):
         circle = Circle(radius=1, color=BLUE)
